@@ -1,0 +1,43 @@
+@media only screen and (min-width:0px) and (max-width:2560px) {
+    .main_div{
+        width: 1104px;
+
+    }
+
+}
+/* large laptop screen */
+@media only screen and (min-width:1025px) and (max-width:1440px) {
+    /* .main_div{
+        width: 1104px;
+
+    } */
+}
+
+/* laptop screen */
+@media only screen and (min-width:769px) and (max-width:1024px) {
+
+}
+
+/* tab screen */
+@media only screen and (min-width:426px) and (max-width:768px) {
+
+}
+
+/*  mobile large screen*/
+@media only screen and (min-width:376px) and (max-width:425px) {
+
+
+}
+
+/* mobile middeam screen */
+@media only screen and (min-width:320px) and (max-width:375px) {
+
+
+
+}
+
+/* mobile small screen */
+@media only screen and (min-width:3.200px) and (max-width:320px) {
+   
+
+}
